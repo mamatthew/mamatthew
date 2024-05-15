@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![mamatthews's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=matthewma3120)](https://github.com/matthewma3120/leetcode-stats)
 <!--
 **mamatthew/mamatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
