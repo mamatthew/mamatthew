@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamatthew)](https://github.com/mamatthew/github-readme-stats)
+[![Top Languages](https://github-readme-stats-mamatthews-projects.vercel.app/api/top-langs/?username=mamatthew)](https://github.com/mamatthew/github-readme-stats)
 [![mamatthew's GitHub stats](https://github-readme-stats-mamatthews-projects.vercel.app/api?username=mamatthew)](https://github.com/mamatthew/github-readme-stats)
 [![mamatthews's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=matthewma3120)](https://github.com/matthewma3120/leetcode-stats)
 <!--
