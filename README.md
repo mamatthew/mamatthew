@@ -1,13 +1,23 @@
-### Hi there, I'm Matthew Ma 👋
+## Hi there, I'm Matthew Ma 👋
 
-Top Programming Languages
-[![Top Languages](https://github-readme-stats-mamatthews-projects.vercel.app/api/top-langs/?username=mamatthew)](https://github.com/mamatthew/github-readme-stats)
+### About Me
 
-Github Stats
-[![mamatthew's GitHub stats](https://github-readme-stats-mamatthews-projects.vercel.app/api?username=mamatthew)](https://github.com/mamatthew/github-readme-stats)
+- 🌱 I’m currently learning: back-end development
+- 👯 I’m looking to collaborate on: open source projects
+- 📫 How to reach me: matthewma99@hotmail.com
+- 😄 Pronouns: he/him
 
-Leetcode Stats
-[![mamatthews's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=matthewma3120)](https://github.com/matthewma3120/leetcode-stats)
+### Top Programming Languages
+
+[![Top Languages](https://github-readme-stats-mamatthews-projects.vercel.app/api/top-langs/?username=mamatthew&layout=compact&theme=vision-friendly-dark)](https://github.com/mamatthew/github-readme-stats)
+
+### Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mamatthew&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### Leetcode Stats
+
+[![mamatthews's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=matthewma3120&theme=dark)](https://github.com/matthewma3120/leetcode-stats)
 <!--
 **mamatthew/mamatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
