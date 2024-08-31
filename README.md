@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning: back-end development
 - 👯 I’m looking to collaborate on: open source projects
-- 📫 How to reach me: matthewma99@hotmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me: matthew.ma@alumni.ubc.ca
 
 ### Top Programming Languages
 
