@@ -14,9 +14,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mamatthew&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### Leetcode Stats
-
-[![mamatthews's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=matthewma3120&theme=dark)](https://github.com/matthewma3120/leetcode-stats)
 <!--
 **mamatthew/mamatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
